@@ -1,0 +1,32 @@
+---@class Palette
+local M = {
+  bg0 = "#090909",
+  bg1 = "#0e0e0e",
+  bg2 = "#1a1a1a",
+  bg3 = "#404040",
+  bg4 = "#626C66",
+  fg0 = "#F3F2CC",
+  fg1 = "#F3F2CC",
+  fg2 = "#F3F2CC",
+  fg3 = "#7e7d6a",
+  fg4 = "#aaaaaa",
+  red = "#F05E48",
+  green = "#99be70",
+  yellow = "#FAD566",
+  blue = "#86c1b9",
+  purple = "#72a59e",
+  aqua = "#72a59e",
+  orange = "#cfba8b",
+  neutral_red = "#F05E48",
+  neutral_green = "#99be70",
+  neutral_yellow = "#FAD566",
+  neutral_blue = "#86c1b9",
+  neutral_purple = "#72a59e",
+  neutral_aqua = "#72a59e",
+  dark_red = "#F05E48",
+  dark_green = "#99be70",
+  dark_aqua = "#72a59e",
+  gray = "#626C66",
+}
+
+return M
